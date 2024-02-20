@@ -20,7 +20,7 @@
 **學校**：[國立臺灣師範大學](https://www.ntnu.edu.tw/)\
 **主修**：[科技應用與人力資源發展學系](https://www.tahrd.ntnu.edu.tw/)\
 **雙主修**：[學習科學學士學位學程](https://www.upls.ntnu.edu.tw/)\
-**學分學程**：資訊科技應用學分學程（修畢）\學習資訊專業學分學程（修畢）\ \數位與人文藝術學分學程
+**學分學程**：資訊科技應用學分學程（修畢）\學習資訊專業學分學程（修畢）\\數位與人文藝術學分學程
 **系級**：科技系三年級乙班\
 **E-mail**：ydsoon02@gmail.com\
 **相關技能**：Python，WordPress(UI),Voxedit，Node.js,Java，Arduino，C++
