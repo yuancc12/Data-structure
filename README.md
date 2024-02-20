@@ -8,7 +8,7 @@
 + [專題演講](https://github.com/yuancc12/Data-structure/blob/main/README.md#%E5%B0%88%E9%A1%8C%E6%BC%94%E8%AC%9B)
 + [課堂PPT](https://github.com/yuancc12/Data-structure/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt)
 + [Leetcode](https://leetcode.com/yuancc12/)
-+[Hugging Face](https://huggingface.co/yuanchi12)
++ [Hugging Face](https://huggingface.co/yuanchi12)
 # 簡介
 **授課教師:蔡芸琤教授**
 
