@@ -7,6 +7,7 @@
 + [作業專區](https://github.com/yuancc12/Data-structure/blob/main/README.md#%E4%BD%9C%E6%A5%AD%E5%B0%88%E5%8D%80)
 + [專題演講](https://github.com/yuancc12/Data-structure/blob/main/README.md#%E5%B0%88%E9%A1%8C%E6%BC%94%E8%AC%9B)
 + [課堂PPT](https://github.com/yuancc12/Data-structure/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt)
++ [Leetcode](https://leetcode.com/yuancc12/)
 
 # 簡介
 **授課教師:蔡芸琤教授**
