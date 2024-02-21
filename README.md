@@ -32,6 +32,8 @@
 + [練習二](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1181482334?envType=study-plan-v2&envId=leetcode-75)
 + [練習三](https://leetcode.com/problems/move-zeroes/submissions/1181482715?envType=study-plan-v2&envId=leetcode-75)
 + [練習四](https://leetcode.com/problems/find-the-highest-altitude/submissions/1181484808?envType=study-plan-v2&envId=leetcode-75)
++ [練習五](https://leetcode.com/problems/is-subsequence/submissions/1181965296/?envType=study-plan-v2&envId=leetcode-75)
++ [練習六]()
 # 作業專區
 # 課堂PPT
 + [第一周](https://docs.google.com/presentation/d/1XHngMihySFJdtavwBlt0JdG-9lrJmFY4-YDZOrP1eQU/edit#slide=id.p)
