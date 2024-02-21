@@ -34,6 +34,7 @@
 + [練習四](https://leetcode.com/problems/find-the-highest-altitude/submissions/1181484808?envType=study-plan-v2&envId=leetcode-75)
 + [練習五](https://leetcode.com/problems/is-subsequence/submissions/1181965296/?envType=study-plan-v2&envId=leetcode-75)
 + [練習六](https://leetcode.com/problems/maximum-average-subarray-i/submissions/1182000519/?envType=study-plan-v2&envId=leetcode-75)
++ [練習七](https://leetcode.com/problems/greatest-common-divisor-of-strings/submissions/1182021073/?envType=study-plan-v2&envId=leetcode-75)
 # 作業專區
 # 課堂PPT
 + [第一周](https://docs.google.com/presentation/d/1XHngMihySFJdtavwBlt0JdG-9lrJmFY4-YDZOrP1eQU/edit#slide=id.p)
