@@ -28,6 +28,7 @@
 **相關技能**：Python，WordPress(UI),Voxedit，Node.js,Java，Arduino，C++
 ***
 # 練習專區
++ [練習一](https://leetcode.com/problems/merge-strings-alternately/submissions/1181481757?envType=study-plan-v2&envId=leetcode-75)
 # 作業專區
 # 課堂PPT
 + [第一周](https://docs.google.com/presentation/d/1XHngMihySFJdtavwBlt0JdG-9lrJmFY4-YDZOrP1eQU/edit#slide=id.p)
