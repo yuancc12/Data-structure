@@ -30,6 +30,7 @@
 # 練習專區
 # 作業專區
 # 課堂PPT
++ [第一周](https://docs.google.com/presentation/d/1XHngMihySFJdtavwBlt0JdG-9lrJmFY4-YDZOrP1eQU/edit#slide=id.p)
 # 專題演講
 # 筆記區
 + [筆記大全](https://www.notion.so/16f57f774eb04998bf33e2681e9ef9da?pvs=4)
