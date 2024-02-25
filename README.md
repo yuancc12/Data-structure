@@ -36,6 +36,7 @@
 + [練習六](https://leetcode.com/problems/maximum-average-subarray-i/submissions/1182000519/?envType=study-plan-v2&envId=leetcode-75)
 + [練習七](https://leetcode.com/problems/greatest-common-divisor-of-strings/submissions/1182021073/?envType=study-plan-v2&envId=leetcode-75)
 + [練習八](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/submissions/1183701679/?envType=study-plan-v2&envId=leetcode-75)
++ [練習九](https://leetcode.com/problems/can-place-flowers/?envType=study-plan-v2&envId=leetcode-75)
 # 作業專區
 # 課堂PPT
 + [第一周](https://docs.google.com/presentation/d/1XHngMihySFJdtavwBlt0JdG-9lrJmFY4-YDZOrP1eQU/edit#slide=id.p)
