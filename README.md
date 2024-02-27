@@ -27,6 +27,7 @@
 **E-mail**：ydsoon02@gmail.com\
 **相關技能**：Python，WordPress(UI),Voxedit，Node.js,Java，Arduino，C++
 ***
++ [爲什麽我無法登入VScode我的Leetcode，終於被我攻破啦啦啦啦之筆記記錄](https://www.notion.so/97fcbf4b5401484aafe7251b584cab41?pvs=4)
 # 練習專區
 + [練習一](https://leetcode.com/problems/merge-strings-alternately/submissions/1181481757?envType=study-plan-v2&envId=leetcode-75)
 + [練習二](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1181482334?envType=study-plan-v2&envId=leetcode-75)
@@ -42,4 +43,5 @@
 + [第一周](https://docs.google.com/presentation/d/1XHngMihySFJdtavwBlt0JdG-9lrJmFY4-YDZOrP1eQU/edit#slide=id.p)
 # 專題演講
 # 筆記區
-+ [筆記大全](https://www.notion.so/16f57f774eb04998bf33e2681e9ef9da?pvs=4)
++ [第一周](https://www.notion.so/97fcbf4b5401484aafe7251b584cab41?pvs=4)
++ [第二周](https://www.notion.so/97fcbf4b5401484aafe7251b584cab41?pvs=4)
