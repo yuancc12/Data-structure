@@ -28,7 +28,7 @@
 **相關技能**：Python，WordPress(UI),Voxedit，Node.js,Java，Arduino，C++
 ***
 # 特殊專區
-+ [爲什麽我無法登入VScode我的Leetcode，終於被我攻破啦啦啦啦之筆記記錄](https://www.notion.so/97fcbf4b5401484aafe7251b584cab41?pvs=4)
++ [爲什麽我無法登入VScode我的Leetcode的心路旅程筆記（暈倒）](https://www.notion.so/VScode-Leetcode-1d4eacedef6b4ae9be6d9d25a8afdf55?pvs=4)
 # 練習專區
 + [練習一](https://leetcode.com/problems/merge-strings-alternately/submissions/1181481757?envType=study-plan-v2&envId=leetcode-75)
 + [練習二](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1181482334?envType=study-plan-v2&envId=leetcode-75)
