@@ -42,7 +42,9 @@
 # 作業專區
 # 課堂PPT
 + [第一周](https://docs.google.com/presentation/d/1XHngMihySFJdtavwBlt0JdG-9lrJmFY4-YDZOrP1eQU/edit#slide=id.p)
++ [第二周](https://docs.google.com/presentation/d/1wX0zNiCGibklyF9yY145saurS7IyRvZY9_JwT1LnBas/edit#slide=id.p)
 # 專題演講
 # 筆記區
 + [第一周](https://www.notion.so/97fcbf4b5401484aafe7251b584cab41?pvs=4)
 + [第二周](https://www.notion.so/97fcbf4b5401484aafe7251b584cab41?pvs=4)
+# 自我檢討專區
