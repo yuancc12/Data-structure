@@ -42,6 +42,7 @@
 + [練習十](https://leetcode.com/problems/two-sum/submissions/1188256524)
 + [練習十一](https://leetcode.com/problems/palindrome-number/submissions/1188262154)
 + [練習十二](https://leetcode.com/problems/longest-common-prefix/submissions/1188271239)
++ [練習十三](https://leetcode.com/problems/baseball-game/submissions/1188322904)
 # 作業專區
 # 課堂PPT
 + [第一周](https://docs.google.com/presentation/d/1XHngMihySFJdtavwBlt0JdG-9lrJmFY4-YDZOrP1eQU/edit#slide=id.p)
