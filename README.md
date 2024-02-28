@@ -41,6 +41,7 @@
 + [練習九](https://leetcode.com/problems/can-place-flowers/?envType=study-plan-v2&envId=leetcode-75)
 + [練習十](https://leetcode.com/problems/two-sum/submissions/1188256524)
 + [練習十一](https://leetcode.com/problems/palindrome-number/submissions/1188262154)
++ [練習十二](https://leetcode.com/problems/longest-common-prefix/submissions/1188271239)
 # 作業專區
 # 課堂PPT
 + [第一周](https://docs.google.com/presentation/d/1XHngMihySFJdtavwBlt0JdG-9lrJmFY4-YDZOrP1eQU/edit#slide=id.p)
