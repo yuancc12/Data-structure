@@ -5,7 +5,8 @@ import requests
 def get_openai_api_key():
     try:
         # 从GitHub仓库的.gitignore文件中获取API密钥
-        response = requests.get('https://githubusercontent.com/yuancc12/Data-structure/.gitignore')
+        response = requests.get('https://raw.githubusercontent.com/yuancc12/Data-structure/master/.gitignore')
+
         
         if response.status_code == 200:
             gitignore_content = response.text
