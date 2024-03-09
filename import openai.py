@@ -1,40 +1,38 @@
-import openai
 import os
+import openai
+import requests
 
-# 获取当前工作目录
-current_dir = os.path.dirname(os.path.abspath(__file__))
-
-
-
-# 读取API密钥
-with open(os.path.join(current_dir, 'key.txt'), "r") as keyfile:
-    key = keyfile.readline().strip()
-
-openai.api_key = key
-
-def get_user_input():
-    user_input = input("请输入消息内容：")
-    return user_input
-
-def construct_message(user_input):
-    messages = [
-        {"role": "user", "content": user_input}
-    ]
-    return messages
+def get_openai_api_key():
+    try:
+        # 从GitHub仓库的.gitignore文件中获取API密钥
+        response = requests.get('https://githubusercontent.com/yuancc12/Data-structure/.gitignore')
+        
+        if response.status_code == 200:
+            gitignore_content = response.text
+            # 在.gitignore文件中查找包含API密钥的行
+            for line in gitignore_content.split('\n'):
+                if 'OPENAI_API_KEY' in line:
+                    # 提取API密钥并返回
+                    return line.split('=')[1].strip()
+        else:
+            print(f"Failed to fetch .gitignore content: {response.status_code}")
+            return None
+    except Exception as e:
+        print(f"An error occurred while fetching .gitignore content: {str(e)}")
+        return None
 
 def main():
-    while True:
-        user_input = get_user_input()
-        messages = construct_message(user_input)
-        
-        response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",
-            max_tokens=300,
-            temperature=0.5,
-            messages=messages
-        )
-        
-        print(response.choices[0].message.content)
+    # 获取OpenAI API密钥
+    api_key = get_openai_api_key()
+    if api_key:
+        openai.api_key = api_key
+        print("Successfully fetched OpenAI API key from .gitignore")
+    else:
+        print("Failed to fetch OpenAI API key from .gitignore")
+        exit()
+
+    # 其他代码部分
+    # ...
 
 if __name__ == "__main__":
     main()
