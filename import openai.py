@@ -1,6 +1,21 @@
 import openai
+import os
 
-openai.api_key = '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'
+# 获取当前工作目录
+current_dir = os.path.dirname(os.path.abspath(__file__))
+
+# 读取文件
+with open(os.path.join(current_dir, 'testing.txt'), 'r', encoding='utf-8') as fh:
+    tmp = fh.read()
+    itemlist = tmp.split(',')
+
+itemlist = str(itemlist)
+
+# 读取API密钥
+with open(os.path.join(current_dir, 'key.txt'), "r") as keyfile:
+    key = keyfile.readline().strip()
+
+openai.api_key = key
 
 def get_user_input():
     user_input = input("请输入消息内容：")
