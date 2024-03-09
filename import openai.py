@@ -1,39 +1,20 @@
-import os
-import openai
-import requests
+# import openai.py
 
-def get_openai_api_key():
+def get_openai_key():
+    key_file_path = "key.txt"  # 指定金鑰文件的路徑
     try:
-        # 从GitHub仓库的.gitignore文件中获取API密钥
-        response = requests.get('https://raw.githubusercontent.com/yuancc12/Data-structure/master/.gitignore')
-
-        
-        if response.status_code == 200:
-            gitignore_content = response.text
-            # 在.gitignore文件中查找包含API密钥的行
-            for line in gitignore_content.split('\n'):
-                if 'OPENAI_API_KEY' in line:
-                    # 提取API密钥并返回
-                    return line.split('=')[1].strip()
-        else:
-            print(f"Failed to fetch .gitignore content: {response.status_code}")
-            return None
-    except Exception as e:
-        print(f"An error occurred while fetching .gitignore content: {str(e)}")
+        with open(key_file_path, "r") as key_file:
+            api_key = key_file.read().strip()  # 讀取並清除任何可能的空白字符
+        return api_key
+    except FileNotFoundError:
+        print("Failed to fetch OpenAI API key from key.txt")
         return None
 
-def main():
-    # 获取OpenAI API密钥
-    api_key = get_openai_api_key()
-    if api_key:
-        openai.api_key = api_key
-        print("Successfully fetched OpenAI API key from .gitignore")
-    else:
-        print("Failed to fetch OpenAI API key from .gitignore")
-        exit()
-
-    # 其他代码部分
-    # ...
-
-if __name__ == "__main__":
-    main()
+# 使用示例
+openai_key = get_openai_key()
+if openai_key:
+    # 使用API金鑰進行相應的操作
+    print("OpenAI API key:", openai_key)
+else:
+    # 無法獲取API金鑰，執行相應的錯誤處理邏輯
+    print("Error: Unable to fetch OpenAI API key")
