@@ -1,5 +1,5 @@
 # Data-structure
-# 113-2資料結構
+# 112-2資料結構
 # 目錄
 + [簡介](https://github.com/yuancc12/JavaScript/blob/main/README.md#%E7%B0%A1%E4%BB%8B)
 + [自我介紹](https://github.com/yuancc12/JavaScript/blob/main/README.md#%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9)
