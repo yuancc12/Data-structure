@@ -54,3 +54,4 @@
 + [第四周](https://www.notion.so/Binary-8960b381951246a191b22640e9ba5cb2?pvs=4)
 + [第二周](https://www.notion.so/97fcbf4b5401484aafe7251b584cab41?pvs=4)
 # 自我檢討專區
++ [AI時代心得感想](https://medium.com/@ydsoon02/ai時代-新一代崛起-3cf733a6e425)
