@@ -29,32 +29,6 @@
 ***
 # 特殊專區
 + [爲什麽我無法登入VScode我的Leetcode的心路旅程筆記（暈倒）](https://www.notion.so/VScode-Leetcode-1d4eacedef6b4ae9be6d9d25a8afdf55?pvs=4)
-# 練習專區
-+ [練習一](https://leetcode.com/problems/merge-strings-alternately/submissions/1181481757?envType=study-plan-v2&envId=leetcode-75)
-+ [練習二](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1181482334?envType=study-plan-v2&envId=leetcode-75)
-+ [練習三](https://leetcode.com/problems/move-zeroes/submissions/1181482715?envType=study-plan-v2&envId=leetcode-75)
-+ [練習四](https://leetcode.com/problems/find-the-highest-altitude/submissions/1181484808?envType=study-plan-v2&envId=leetcode-75)
-+ [練習五](https://leetcode.com/problems/is-subsequence/submissions/1181965296/?envType=study-plan-v2&envId=leetcode-75)
-+ [練習六](https://leetcode.com/problems/maximum-average-subarray-i/submissions/1182000519/?envType=study-plan-v2&envId=leetcode-75)
-+ [練習七](https://leetcode.com/problems/greatest-common-divisor-of-strings/submissions/1182021073/?envType=study-plan-v2&envId=leetcode-75)
-+ [練習八](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/submissions/1183701679/?envType=study-plan-v2&envId=leetcode-75)
-+ [練習九](https://leetcode.com/problems/can-place-flowers/?envType=study-plan-v2&envId=leetcode-75)
-+ [練習十](https://leetcode.com/problems/two-sum/submissions/1188256524)
-+ [練習十一](https://leetcode.com/problems/palindrome-number/submissions/1188262154)
-+ [練習十二](https://leetcode.com/problems/longest-common-prefix/submissions/1188271239)
-+ [練習十三](https://leetcode.com/problems/baseball-game/submissions/1188322904)
-# 作業專區
-# 課堂PPT
-+ [第一周](https://docs.google.com/presentation/d/1XHngMihySFJdtavwBlt0JdG-9lrJmFY4-YDZOrP1eQU/edit#slide=id.p)
-+ [第二周](https://docs.google.com/presentation/d/1wX0zNiCGibklyF9yY145saurS7IyRvZY9_JwT1LnBas/edit#slide=id.p)
-# 專題演講
-# 筆記區
-+ [第一周](https://www.notion.so/97fcbf4b5401484aafe7251b584cab41?pvs=4)
-+ [第二周](https://www.notion.so/97fcbf4b5401484aafe7251b584cab41?pvs=4)
-+ [第四周](https://www.notion.so/Binary-8960b381951246a191b22640e9ba5cb2?pvs=4)
-+ [第二周](https://www.notion.so/97fcbf4b5401484aafe7251b584cab41?pvs=4)
-# 自我檢討專區
-+ [AI時代心得感想](https://medium.com/@ydsoon02/ai時代-新一代崛起-3cf733a6e425)
 
 # EHR-AI-System-LLM-
 本專題利用LLM大預言AI模型，透過使用者輸入簽到簽退打卡系統，並讓人資部門或管理者透過AI詢問來瞭解員工的情況並進行評估
