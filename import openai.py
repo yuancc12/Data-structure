@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = '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'
+openai.api_key = 'openai key'
 
 def get_user_input():
     user_input = input("请输入消息内容：")
